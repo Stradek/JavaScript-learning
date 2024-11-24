@@ -1,3 +1,3 @@
 # JavaScript-learning
 
-https://www.youtube.com/watch?v=hdI2bqOjy3c
+My private java script learning coding practice repo
